@@ -1,0 +1,28 @@
+_repo: Discover-the-Excitement-of-Hairpin-Lace_62718
+_version: 0.0.1
+contributor:
+  publisher_contributor:
+    agent_name: C.J. Bates & Son
+    aliases:
+    - Bates & Son
+    - Bates (C. J.) & Son
+    gutenberg_agent_id: '52086'
+    url: http://www.gutenberg.org/2009/agents/52086
+description: ''
+gutenberg_issued: '2020-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62718'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Book 1760
+subjects:
+- !lcsh 'Knitting -- Patterns'
+- !lcsh 'Hairpin lace -- Patterns'
+- !lcc 'TT'
+- !lcsh 'Crocheting -- Patterns'
+- GITenberg
+title: Discover the Excitement of Hairpin Lace
+url: http://www.gutenberg.org/ebooks/62718
