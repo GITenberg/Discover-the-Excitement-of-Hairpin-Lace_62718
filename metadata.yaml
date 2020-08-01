@@ -1,5 +1,5 @@
 _repo: Discover-the-Excitement-of-Hairpin-Lace_62718
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   publisher_contributor:
     agent_name: C.J. Bates & Son
@@ -8,7 +8,12 @@ contributor:
     - Bates (C. J.) & Son
     gutenberg_agent_id: '52086'
     url: http://www.gutenberg.org/2009/agents/52086
+covers:
+- cover_type: archival
+  image_path: 62718-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62718#Discover-the-Excitement-of-Hairpin-Lace
 gutenberg_issued: '2020-07-20'
 gutenberg_type: Text
 identifiers:
